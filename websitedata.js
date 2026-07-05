@@ -102,6 +102,13 @@ function findObjectsByKeyword(keywordToSearch, data) {
 
 var dataJSON = {
   queries: [
+                            {
+      title: "Switch to Reimagined",
+      description: "Switch to the newer TurtleWave Search: Reimagined for lighting fast answers, better results, and more widgets. You will never want to use classic TurtleWave Search again.",
+      url: "https://search.turtlewave.dev",
+      keywords: "search engine, turtlewave search, search, turtlewave",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=search.turtlewave.dev/"
+    },
                         {
       title: "GameStop",
       description: "Shop GameStop, the world's largest retail gaming and trade-in destination for Xbox, PlayStation, and Nintendo games, systems, consoles & accessories.",
@@ -4059,7 +4066,7 @@ async function fillresults(keyword) {
       clone.querySelector("#link").textContent = url;
       clone.querySelector("#url-label").textContent = url;
       clone.querySelector("#desc-label").textContent = "DuckDuckGo result";
-
+    
       const iconimg = clone.querySelector("#icon");
       iconimg.src = "https://www.google.com/s2/favicons?sz=64&domain=" + new URL(url).hostname;
 
