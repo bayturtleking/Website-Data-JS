@@ -140,9 +140,15 @@
         },
                         {
           "title": "TABS mods",
-          "desc": "I've created a Totally Accurate Battle Simulator mod using C#",
+          "desc": "I've created two Totally Accurate Battle Simulator mods using C#",
           "img": "https://images.squarespace-cdn.com/content/v1/55dc59cae4b07dc2ebbe3ea3/1615538637888-H4V1HY6ALZOT1SDBOCBU/Tabs_Logo1.png?format=2500w",
           "link": "https://thunderstore.io/c/totally-accurate-battle-simulator/p/BayTurtleKing/"
+        },
+                                {
+          "title": "Pikuniku mods",
+          "desc": "I've created two Pikuniku mods using C#",
+          "img": "https://gcdn.thunderstore.io/assets/pikuniku/pikuniku-icon-192x192.webp",
+          "link": "https://thunderstore.io/c/pikuniku/p/BayTurtleKing/"
         }
       ]
     },
