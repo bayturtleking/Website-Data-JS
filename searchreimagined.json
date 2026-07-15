@@ -13,6 +13,13 @@
     "d": "Some simple games you can play in your browser",
     "k": "sandbox, sandboxels, neal.fun, turtlewave"
   },
+      {
+    "t": "TurtleWave Music",
+    "l": "https://res.cloudinary.com/dmuudpnkx/image/upload/v1784086775/Document_jh0101.png",
+    "a": "https://music.turtlewave.dev",
+    "d": "Browse audio and radio stations from many sources with a clean and modern UI.",
+    "k": "music, audio, turtlewave"
+  },
     {
     "t": "TurtleWave Search",
     "l": "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
