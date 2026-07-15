@@ -21,6 +21,12 @@
           "img": "https://res.cloudinary.com/djzalweis/image/upload/v1748664341/image_lgzju7.png",
           "link": "https://www.turtlenet.club"
         },
+                {
+          "title": "TurtleWave Music 2",
+          "desc": "A simple music service where you can view tracks & radio stations from many sources with modern & simple-to-use UI.",
+          "img": "https://res.cloudinary.com/dmuudpnkx/image/upload/v1784086775/Document_jh0101.png",
+          "link": "https://music.turtlewave.dev"
+        },
         {
           "title": "GoSwift",
           "desc": "A simple but fast URL shortener.",
