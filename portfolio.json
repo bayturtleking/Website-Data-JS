@@ -70,12 +70,6 @@
           "link": "https://feedbackinator.turtlewave.dev"
         },
         {
-          "title": "NoRobotsAllowed",
-          "desc": "A fun little game where you have to get past many obstacles to prove you're a human, starting easy (with a CAPTCHA) then getting continously harder. This project no longer exists due to Glitch shutting down.",
-          "img": "",
-          "link": "https://no-robots.glitch.me"
-        },
-        {
           "title": "Squire Town",
           "desc": "A 2D website where you could create and play tiny games with a default character. This included collisions, forums, and more but no longer exists due to Glitch shutting down.",
           "img": "",
