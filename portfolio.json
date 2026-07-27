@@ -127,6 +127,12 @@
       "name": "Mods for Games",
       "projects": [
         {
+          "title": "Nexus Mods profile",
+          "desc": "This shows all of the mods I published to Nexus. However, most my mods are published to Thunderstore instead.",
+          "img": "https://www.nexusmods.com/favicon.ico",
+          "link": "https://www.nexusmods.com/profile/BayTurtleKing/mods"
+        },
+        {
           "title": "Minecraft Mods (Modrinth)",
           "desc": "I've created several Minecraft mods on both Modrinth and Curseforge using various tools, including Java",
           "img": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png",
@@ -143,6 +149,12 @@
           "desc": "I've created two Totally Accurate Battle Simulator mods using C#",
           "img": "https://images.squarespace-cdn.com/content/v1/55dc59cae4b07dc2ebbe3ea3/1615538637888-H4V1HY6ALZOT1SDBOCBU/Tabs_Logo1.png?format=2500w",
           "link": "https://thunderstore.io/c/totally-accurate-battle-simulator/p/BayTurtleKing/"
+        },
+                                {
+          "title": "Superhot mods",
+          "desc": "I've created some Superhot mods using C#",
+          "img": "https://gcdn.thunderstore.io/assets/superhot/superhot-icon-192x192.webp",
+          "link": "https://thunderstore.io/c/superhot/p/BayTurtleKing/"
         },
                                 {
           "title": "Pikuniku mods",
