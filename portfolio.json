@@ -128,9 +128,15 @@
       "projects": [
         {
           "title": "Nexus Mods profile",
-          "desc": "This shows all of the mods I published to Nexus. However, most my mods are published to Thunderstore instead.",
+          "desc": "This shows all of the mods I published to Nexus.",
           "img": "https://www.nexusmods.com/favicon.ico",
           "link": "https://www.nexusmods.com/profile/BayTurtleKing/mods"
+        },
+                {
+          "title": "Thunderstore mods",
+          "desc": "This shows all of the games I modded and published the mods to Thunderstore.",
+          "img": "https://thunderstore.io/favicon.ico",
+          "link": "/other/thunderstore.html"
         },
         {
           "title": "Minecraft Mods (Modrinth)",
@@ -144,24 +150,6 @@
           "img": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png",
           "link": "https://www.curseforge.com/members/bayturtleking/projects"
         },
-                        {
-          "title": "TABS mods",
-          "desc": "I've created two Totally Accurate Battle Simulator mods using C#",
-          "img": "https://images.squarespace-cdn.com/content/v1/55dc59cae4b07dc2ebbe3ea3/1615538637888-H4V1HY6ALZOT1SDBOCBU/Tabs_Logo1.png?format=2500w",
-          "link": "https://thunderstore.io/c/totally-accurate-battle-simulator/p/BayTurtleKing/"
-        },
-                                {
-          "title": "Superhot mods",
-          "desc": "I've created some Superhot mods using C#",
-          "img": "https://gcdn.thunderstore.io/assets/superhot/superhot-icon-192x192.webp",
-          "link": "https://thunderstore.io/c/superhot/p/BayTurtleKing/"
-        },
-                                {
-          "title": "Pikuniku mods",
-          "desc": "I've created two Pikuniku mods using C#",
-          "img": "https://gcdn.thunderstore.io/assets/pikuniku/pikuniku-icon-192x192.webp",
-          "link": "https://thunderstore.io/c/pikuniku/p/BayTurtleKing/"
-        }
       ]
     },
         {
