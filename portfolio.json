@@ -94,7 +94,7 @@
       "projects": [
         {
           "title": "Shell Surfer",
-          "desc": "A fast web-browser built on Electron, rendering with Blink. It comes with no data collection or mandatory accounts.",
+          "desc": "A fast web-browser built on Electron. It comes with no data collection or mandatory accounts.",
           "img": "https://res.cloudinary.com/dmuudpnkx/image/upload/v1778970391/6cf49a1c-b01f-416a-a891-d1194da0f334-8_dw2o4b.png",
           "link": "https://shellsurf.turtlewave.dev"
         }
