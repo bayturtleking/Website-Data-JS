@@ -15,12 +15,24 @@
           "img": "https://gcdn.thunderstore.io/assets/superhot/superhot-icon-192x192.webp",
           "link": "https://thunderstore.io/c/superhot/p/BayTurtleKing/"
         },
+                {
+          "title": "Superhot MCD mods",
+          "desc": "I've created some Superhot: Mind Control Delete mods using C#",
+          "img": "https://gcdn.thunderstore.io/assets/superhot-mind-control-delete/superhot-mind-control-delete-icon-192x192.webp",
+          "link": "https://thunderstore.io/c/superhot-mind-control-delete/p/BayTurtleKing/"
+        },
         {
           "title": "Pikuniku mods",
           "desc": "I've created two Pikuniku mods using C#",
           "img": "https://gcdn.thunderstore.io/assets/pikuniku/pikuniku-icon-192x192.webp",
           "link": "https://thunderstore.io/c/pikuniku/p/BayTurtleKing/"
-        }
+        },
+                {
+          "title": "Big Walk mods",
+          "desc": "I've created some Big Walk mods using C#",
+          "img": "https://gcdn.thunderstore.io/assets/big-walk/big-walk-icon-192x192.webp",
+          "link": "https://thunderstore.io/c/big-walk/p/BayTurtleKing/"
+        },
       ]
     }
   ]
