@@ -35,7 +35,7 @@
         },
                         {
           "title": "Stick Fight: The Game",
-          "desc": "I've created some Stick Fight mods using C#. I also uploaded and configured the Thunderstore package for this game.",
+          "desc": "I've created some Stick Fight mods using C#. I also uploaded and configured the Thunderstore BepInEx package for this game.",
           "img": "https://gcdn.thunderstore.io/assets/stick-fight-the-game/stick-fight-the-game-icon-192x192.webp",
           "link": "https://thunderstore.io/c/stick-fight-the-game/p/BayTurtleKing/"
         }
