@@ -100,6 +100,17 @@
         }
       ]
     },
+        {
+      "name": "GoDot Projects",
+      "projects": [
+        {
+          "title": "Tower O' Turtles 3D",
+          "desc": "My first GoDot project ever. A simple 3D version of my original Tower O' Turtles (2D) game on TurtleWave Games.",
+          "img": "",
+          "link": "https://games.turtlewave.dev/largegame/turttower3d/version.html"
+        }
+      ]
+    },
     {
       "name": "Chrome Extensions",
       "projects": [
