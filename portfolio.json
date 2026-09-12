@@ -161,6 +161,12 @@
           "img": "https://thunderstore.io/favicon.ico",
           "link": "/other/thunderstore.html"
         },
+                        {
+          "title": "Garry's Mod mods",
+          "desc": "Mods I've published to GMOD's Steam Workshop!",
+          "img": "https://gmod.facepunch.com/favicon.ico",
+          "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3800492550"
+        },
         {
           "title": "Minecraft Mods (Modrinth)",
           "desc": "I've created several Minecraft mods on both Modrinth and Curseforge using various tools, including Java",
