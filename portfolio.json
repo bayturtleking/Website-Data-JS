@@ -167,6 +167,12 @@
           "img": "https://gmod.facepunch.com/favicon.ico",
           "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3800492550"
         },
+                                {
+          "title": "PPG mods",
+          "desc": "Mods I've published to PPG's Steam Workshop!",
+          "img": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1118200/41b6bdf6fb9feae9c966d414c2acddd77aaafa7f.jpg",
+          "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3804811466"
+        },
         {
           "title": "Minecraft Mods (Modrinth)",
           "desc": "I've created several Minecraft mods on both Modrinth and Curseforge using various tools, including Java",
