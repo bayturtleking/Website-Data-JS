@@ -21,6 +21,12 @@
           "img": "https://gcdn.thunderstore.io/assets/superhot-mind-control-delete/superhot-mind-control-delete-icon-192x192.webp",
           "link": "https://thunderstore.io/c/superhot-mind-control-delete/p/BayTurtleKing/"
         },
+                        {
+          "title": "Superhot VR mods",
+          "desc": "I've created some Superhot: VR mods using C#. I am fairly proud of my flatscreen conversion mod!",
+          "img": "https://gcdn.thunderstore.io/assets/superhot-vr/superhot-vr-icon-192x192.webp",
+          "link": "https://thunderstore.io/c/superhot-vr/p/BayTurtleKing/"
+        },
         {
           "title": "Pikuniku mods",
           "desc": "I've created a few Pikuniku mods using C#",
