@@ -21,8 +21,8 @@
             "author": "Turtle Net",
             "sources": [
                 "https://www.britannica.com/animal/turtle-reptile",
-                "https://turtlesurvival.org/species",
-                "https://iucn-tftsg.org/checklist/",
+                "https://turtlesurvival.org/species/",
+                "https://iucn-tftsg.org/checklists/",
                 "https://reptile-database.reptarium.cz"
             ],
             "content": [
@@ -48,7 +48,7 @@
             "author": "Turtle Net",
             "sources": [
                 "https://www.animaldiversity.org/accounts/Trachemys_scripta/",
-                "https://tpwd.texas.gov/huntwild/wild/species/slider/",
+                "https://tpwd.texas.gov/huntwild/wild/species/slider",
                 "https://vcahospitals.com/know-your-pet/turtles-aquatic-feeding"
             ],
             "content": [
@@ -76,7 +76,7 @@
                 "https://www.animaldiversity.org/accounts/Trachemys_scripta/",
                 "https://www.usgs.gov/publications/unusual-population-attributes-invasive-red-eared-slider-turtles-trachemys-scripta",
                 "https://nsglc.olemiss.edu/projects/invasivespecies/files/legal-case-study-red-eared-slider.pdf",
-                "https://tpwd.texas.gov/huntwild/wild/species/slider/",
+                "https://tpwd.texas.gov/huntwild/wild/species/slider",
                 "https://vcahospitals.com/know-your-pet/turtles-aquatic-feeding"
             ],
             "content": [
@@ -150,7 +150,7 @@
                 "https://www.tortoise.org/archives/snapping.html",
                 "https://www.exoticpetvet.com/common-snapping-turtle-care.html",
                 "https://fieldandstream.com/stories/conservation/wildlife-conservation/what-do-snapping-turtles-eat",
-                "https://www.farmanddairy.com/columns/egg-laying-season-for-snapping-turtles-is-upon-us"
+                "https://www.farmanddairy.com/columns/egg-laying-season-for-snapping-turtles-is-upon-us/872824.html"
             ],
             "content": [
                 "Snapper turtles are large freshwater turtles best known for their very strong jaws and defensive behavior when they feel threatened. They are part of the genus Chelydra (a genus is a group of related living things) and are commonly found in North America.",
@@ -170,11 +170,10 @@
             "sources": [
                 "https://www.britannica.com/story/whats-the-difference-between-a-turtle-and-a-tortoise",
                 "https://www.orangegroveah.com/desert-tortoise-diet",
-                "https://www.britannica.com/animal/tortoise-reptile",
-                "https://www.rspca.org.uk/adviceandwelfare/pets/reptiles/tortoises",
-                "https://www.reptilesmagazine.com/tortoise-care-sheet/",
-                "https://www.audubon.org/news/how-care-pet-tortoise",
-                "https://www.vetmed.ucdavis.edu/news/tortoise-nutrition-basics"
+                "https://www.britannica.com/animal/tortoise",
+                "https://www.rspca.org.uk/exotics",
+                "https://reptilesmagazine.com/?p=112969",
+                "https://healthtopics.vetmed.ucdavis.edu/node/1116"
             ],
             "content": [
                 "Tortoises are a type of turtle. This means that all tortoises are turtles, but not all turtles are tortoises. Unlike most other turtles which are either mostly aquatic or fully aquatic, tortoises are strictly land-dwelling, meaning they only go on land and can not swim.",
