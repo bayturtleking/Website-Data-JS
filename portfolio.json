@@ -161,6 +161,12 @@
           "img": "https://thunderstore.io/favicon.ico",
           "link": "/other/thunderstore.html"
         },
+                                {
+          "title": "Goat Simulator mods",
+          "desc": "Mods I've published to Goat Simulator's Steam Workshop!",
+          "img": "https://shared.fastly.steamstatic.com/community_assets/images/apps/265930/edf6c28b83d5fc221338ff71d01caa11d11d3b50.jpg",
+          "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843321826"
+        },
                         {
           "title": "Garry's Mod mods",
           "desc": "Mods I've published to GMOD's Steam Workshop!",
