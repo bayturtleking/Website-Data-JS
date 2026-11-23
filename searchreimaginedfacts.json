@@ -5,5 +5,12 @@
     "d": "Founded 2025, Turtle Net is a social media site built around turtles and tortoises. The CSS and styling are mid-2000s themed. Users, called \"Turtle Club members\", can upload turtle-related images and videos, comment, and more.\n\nOther than just being a social media, Turtle Net has grown into a learning resource, with articles related to turtles and other marine life.",
     "k": "turtlenet, turtlenet.club, turtle net club",
     "s": "TurtleWave"
+  },
+  {
+    "t": "TurtleWave Search",
+    "a": "https://search.turtlewave.dev",
+    "d": "TurtleWave Search is a search engine created in 2023 by 'BayTurtleKing' with the help of 'KazWasTaken'. Its first version, V1, was hosted on Glitch and served as a simpler, privacy-safe alternative to larger search engines.\n\nOver many years, V1 was refined and gained a JavaScript modification creator, much customization, Wikipedia facts, and a helper bot that gave pre-made answers. When Glitch shut down in 2025, the search engine was discontinued. It returned in early 2026 on Netlify at turtlewave.netlify.app, however some features were missing or broken.\n\nTurtleWave Search V2 was released in mid-2026 at search.turtlewave.dev and was made from the ground up. Compared to V1, it offers better results, an improved interface, and less bloat.",
+    "k": "twave, turtlewave search, turtlewave search v1, turtlewave search v2",
+    "s": "TurtleWave"
   }
 ]
