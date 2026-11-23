@@ -62,7 +62,7 @@
   {
     "t": "Timer",
     "a": "/widgets/timer.html?timer",
-    "k": "timer, online timer, set a timer, countdown timer, kitchen timer, start a timer, 5 minute timer, 10 minute timer, minute timer, 20 minute timer"
+    "k": "timer, online timer, set a timer, countdown timer, kitchen timer, start a timer, 5 minute timer, 10 minute timer, minute timer, 20 minute timer, 1 hour timer, hour timer, 2 hour timer, 10 second timer, 30 second timer, second timer"
   },
   {
     "t": "Countdown",
