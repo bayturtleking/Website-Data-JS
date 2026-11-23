@@ -22,17 +22,17 @@
   {
     "t": "Inspirational Quote",
     "a": "/widgets/quote.html",
-    "k": "inspiration, inspirational message, quote, inspirational quote, random quote"
+    "k": "inspiration, inspirational message, quote, inspirational quote, random quote, give me a quote, give a quote, give quote, tell quote, tell a quote, tell me a quote"
   },
     {
     "t": "Random Fun Fact",
     "a": "/widgets/funfact.html",
-    "k": "fun facts, fun fact, random fun fact, tell me a fun fact, give me a fun fact, random fact"
+    "k": "fun facts, fun fact, random fun fact, tell me a fun fact, give me a fun fact, random fact, tell me a fact"
   },
       {
     "t": "Random Joke",
     "a": "/widgets/joke.html",
-    "k": "dad joke, tell me a joke, tell me a dad joke, give me a joke, give me a dad joke, dad jokes"
+    "k": "dad joke, tell me a joke, tell me a dad joke, give me a joke, give me a dad joke, dad jokes, give joke"
   },
         {
     "t": "Flip a Coin",
@@ -42,7 +42,7 @@
           {
     "t": "Random Number Generator",
     "a": "/widgets/rng.html",
-    "k": "rng , 1 out of 10, generate a random number, random number, random number generator"
+    "k": "rng, 1 out of 10, generate a random number, random number, random number generator"
   },
             {
     "t": "Calculator",
