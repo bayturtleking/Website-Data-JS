@@ -4,6 +4,21 @@
     "a": "/widgets/color.html",
     "k": "color picker, colour picker, hex codes, hex picker, rgb picker"
   },
+    {
+    "t": "Daily Bible Verse",
+    "a": "/widgets/bibleversedaily.html",
+    "k": "daily bible verse, bible verse of the day, verse of the day, daily verse"
+  },
+      {
+    "t": "Random Bible Verse",
+    "a": "/widgets/bibleverserandom.html",
+    "k": "random bible verse, christian verse, catholic verse, random verse, verse random, give me a bible verse"
+  },
+        {
+    "t": "Random Bible Proverb",
+    "a": "/widgets/bibleverserandom.html?proverb",
+    "k": "random bible proverb, christian proverb, catholic proverb, random proverb, proverb random, give me a bible proverb"
+  },
   {
     "t": "Inspirational Quote",
     "a": "/widgets/quote.html",
