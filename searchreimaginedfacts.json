@@ -12,5 +12,19 @@
     "d": "TurtleWave Search is a search engine created in 2023 by 'BayTurtleKing' with the help of 'KazWasTaken'. Its first version, V1, was hosted on Glitch and served as a simpler, privacy-safe alternative to larger search engines.\n\nOver many years, V1 was refined and gained a JavaScript modification creator, much customization, Wikipedia facts, and a helper bot that gave pre-made answers. When Glitch shut down in 2025, the search engine was discontinued. It returned in early 2026 on Netlify at turtlewave.netlify.app, however some features were missing or broken.\n\nTurtleWave Search V2 was released in mid-2026 at search.turtlewave.dev and was made from the ground up. Compared to V1, it offers better results, an improved interface, and less bloat.",
     "k": "twave, turtlewave search, turtlewave search v1, turtlewave search v2",
     "s": "TurtleWave"
-  }
+  },
+{
+  "t": "TurtleWave Music",
+  "a": "https://music.turtlewave.dev",
+  "d": "TurtleWave Music (V1) was a simple music player created in 2024 and originally built into TurtleWave Search V1. Hosted on Glitch, it was essentially just an HTML audio player using manually referenced Internet Archive files. It was discontinued in mid 2025 and fully taken down when Glitch shut down. It came back when TurtleWave moved to Netlify, but only showed the old shutdown message.\n\nTurtleWave Music V2 was created in early 2026 with two halves: a radio browser using various online radio sources, and a cleaner interface than Internet Archive's own for searching and playing its albums, tracks, and recordings. The radio browser was later added to the Shell Surfer web browser as 'SSurf Radio'. Compared to V1, V2 offers the entire Internet Archive library, online radio stations, and a much more modern UI.",
+  "k": "twave music, turtlewave music, turtlewave radio, ssurf radio, shell surfer radio",
+  "s": "TurtleWave"
+},
+  {
+  "t": "Shell Surfer",
+  "a": "https://shellsurf.turtlewave.dev",
+  "d": "Shell Surfer (or SSurf) is a heavily customizable and configurable, Electron-based web browser made as part of TurtleWave. Its earliest versions, 1.4R and older, were tiny and barely functioned as web browsers. 1.5R added a basic tab and bookmark feature, and 1.6R, released in May 2026, had the browser completely built from the ground up with better tabs, bookmarks in the tool bar, a context menu, Reader Mode, and protcol support (like ssurf://).\n\nOver the next the 1.x updates, it added an extension system with an official store and built in extension maker, support for some Chrome and Firefox extensions, AdBlock, parental controls, many safety and security features, and five separate built-in UI styles a user could choose from. Other later updates include additions like find in page, spell check, website history, a built-in notepad, an internet radio page (SSurf Radio, powered by TurtleWave Music Radio), a password manager, and ways to transfer data from other browsers.\n\nShell Surfer began as a Windows only browser with .exe installers, then moved to an .msi installer in 1.9.4R. Linux support for many distros arrived in 1.12.1R.",
+  "k": "shell surfer, shellsurfer, ssurf, shell surfer browser, ssurf browser, turtlewave browser",
+  "s": "TurtleWave"
+}
 ]
